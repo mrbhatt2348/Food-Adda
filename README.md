@@ -22,6 +22,7 @@ Explore the live demo [here](https://food-adda-by-raj.netlify.app/).
 - JavaScript
 - Tailwind Css
 - Redux Toolkit
+- Swiggy's Live API
 
 ## Getting Started
 
